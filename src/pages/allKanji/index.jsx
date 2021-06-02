@@ -30,8 +30,6 @@ export const AllKanji = () => {
         setModal(!modal)
     }
 
-
-
     return (
             <Container>
                 <Pagination previousPage={() => pageNumber < 2 ? null : setPageNumber(pageNumber - 1)}

@@ -1,4 +1,4 @@
-import {Button, Container, Display, PageNumber} from "./styles";
+import {Button, Container, PageNumber} from "./styles";
 
 export const Pagination = (props) => {
 
